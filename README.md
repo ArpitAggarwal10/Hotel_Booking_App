@@ -86,7 +86,7 @@ git clone https://github.com/ArpitAggarwal10/Hotel_Booking_App.git
 2. **Now install the necessasry packages using the command**
 
 ```dotnetcli
-npm || yarn
+npm install || yarn install
 ```
 **Note :- Make Sure that you have the node JS Package installed in your computer.**
 
